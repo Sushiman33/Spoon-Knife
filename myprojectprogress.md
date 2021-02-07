@@ -1,0 +1,2 @@
+# Thougts on possible projects of interest and how I would like to organize it
+* If I had the choice of how to organize a open source project, I think that the blessed repository would be my preference. Some of my thoughts on possible projects of interest is helping to contribute to some larger project itself and make something that is convinent. Something like making a new module for Python that does something useful.
